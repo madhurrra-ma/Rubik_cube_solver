@@ -1,7 +1,10 @@
 # 🧩 Rubik's Cube Solver
 
-A Rubik's Cube solver developed in **C++** that demonstrates the use of graph search algorithms, heuristic optimization, and object-oriented programming. This project implements multiple cube representations and solving strategies to efficiently solve scrambled Rubik's Cube states.
+I explored this Rubik's Cube Solver project to better understand how classical search algorithms can be applied to solve real-world state-space problems.
 
+While working through the code, I spent time understanding how different cube representations affect performance and how informed search algorithms can significantly reduce the number of explored states.
+
+The project is written in C++ and includes multiple solving approaches along with different ways of representing the cube internally.
 ---
 
 ## About the Project
@@ -109,17 +112,15 @@ Some interesting challenges while working on this project included:
 
 ## What I Learned
 
-Through this project, I improved my understanding of:
+Working with this project helped me understand:
 
-- Advanced C++
-- Object-Oriented Programming
-- Search Algorithms
-- Heuristic Optimization
-- Pattern Databases
-- Efficient Data Structures
-- Problem Solving
-
+How a Rubik's Cube can be represented in different data structures
+The difference between uninformed and heuristic search algorithms
+Why IDA* performs much better than DFS or BFS for large search spaces
+How Pattern Databases improve search efficiency
+Organizing a larger C++ project into reusable modules
 ---
 
+Acknowledgement
 
 This project is intended for educational and learning purposes.
