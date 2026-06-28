@@ -119,7 +119,6 @@ The difference between uninformed and heuristic search algorithms
 Why IDA* performs much better than DFS or BFS for large search spaces
 How Pattern Databases improve search efficiency
 Organizing a larger C++ project into reusable modules
----
 
 Acknowledgement
 
