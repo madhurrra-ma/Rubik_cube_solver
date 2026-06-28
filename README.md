@@ -5,6 +5,7 @@ I explored this Rubik's Cube Solver project to better understand how classical s
 While working through the code, I spent time understanding how different cube representations affect performance and how informed search algorithms can significantly reduce the number of explored states.
 
 The project is written in C++ and includes multiple solving approaches along with different ways of representing the cube internally.
+
 ---
 
 ## About the Project
