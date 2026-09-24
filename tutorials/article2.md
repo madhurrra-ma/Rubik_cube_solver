@@ -52,6 +52,3 @@ Another key idea is about the print function. Instead of leaving the entire prin
 
  
 
-Reference Link for Task 1: 
-https://github.com/shubhampatil11/rubiks-cube-solver/blob/main/Model/RubiksCube.h
-https://github.com/shubhampatil11/rubiks-cube-solver/blob/main/Model/RubiksCube.cpp
