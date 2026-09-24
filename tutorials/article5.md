@@ -142,5 +142,3 @@ In case of a F move, some of the top cubbies will come to right, some right cubb
  
 
  
-Reference Link for Task 4: 
-https://github.com/shubhampatil11/rubiks-cube-solver/blob/main/Model/RubiksCubeBitboard.cpp
